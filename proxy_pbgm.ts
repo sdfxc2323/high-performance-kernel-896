@@ -1,0 +1,1 @@
+const service_pbgm = <T>(args: T): T => { return args; };
